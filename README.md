@@ -2,6 +2,12 @@
 
 This was one of the best project I've step up to do, because it was from a tutorial that managed to teach Styled Components, React Hooks and API consumption using Axios. It was a 4h long video from Youtube, and to manage to do it until the end was pretty satisfactory
 
+The project is fully responsive!
+
+![](https://user-images.githubusercontent.com/26651389/103010701-7b4adc00-4517-11eb-8ec5-07293bababc6.gif)
+![](https://user-images.githubusercontent.com/26651389/103011058-0f1ca800-4518-11eb-9c18-3c4820ffd79a.gif)
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
