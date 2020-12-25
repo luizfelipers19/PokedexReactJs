@@ -1,6 +1,8 @@
 # Pokedex in ReactJs
 
-This was one of the best project I've step up to do, because it was from a tutorial that managed to teach Styled Components, React Hooks and API consumption using Axios. It was a 4h long video from Youtube, and to manage to do it until the end was pretty satisfactory
+This was one of the best project I've step up to do, because it was from a tutorial that managed to teach Styled Components, React Hooks and API consumption using Axios. It was a 4h long video from Youtube, and to manage to do it until the end was pretty satisfactory.
+
+The React App consumes the PokeApi, fetching data from all pokemons registered (600+). If it overloads the api, an alert message will report "Too many requests!".
 
 The project is fully responsive!
 
