@@ -4,7 +4,10 @@ This was one of the best project I've step up to do, because it was from a tutor
 
 The project is fully responsive!
 
+## Desktop demo
 ![](https://user-images.githubusercontent.com/26651389/103010701-7b4adc00-4517-11eb-8ec5-07293bababc6.gif)
+
+## Responsive demo
 ![](https://user-images.githubusercontent.com/26651389/103011058-0f1ca800-4518-11eb-9c18-3c4820ffd79a.gif)
 
 
